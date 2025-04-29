@@ -1,0 +1,22 @@
+﻿<Window x:Class="ChatZy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChatZy"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Login" Height="400" Width="340">
+    <Grid>
+        <Button Content="Login" 
+                    Margin="68,263,67,57" 
+                    Background="#34495E" 
+                    Foreground="White" 
+                    FontSize="22" 
+                    Click="message_Click" FontWeight="Bold"/>
+
+        <Label Content="Enter user name" HorizontalAlignment="Left" Margin="24,121,0,0" VerticalAlignment="Top" FontSize="16"/>
+
+        <TextBox x:Name="userNameTxtBox" HorizontalAlignment="Left" Margin="170,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="16" Background="#FF9BC6FF"/>
+    </Grid>
+</Window>

@@ -1,0 +1,6 @@
+C:\Users\DELL\OneDrive\Desktop\CHAT APP\ChatZy\obj\Debug\net9.0-windows\ChatClient.baml
+C:\Users\DELL\OneDrive\Desktop\CHAT APP\ChatZy\obj\Debug\net9.0-windows\ChatClient.g.cs
+C:\Users\DELL\OneDrive\Desktop\CHAT APP\ChatZy\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\DELL\OneDrive\Desktop\CHAT APP\ChatZy\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\DELL\OneDrive\Desktop\CHAT APP\ChatZy\obj\Debug\net9.0-windows\ChatZy_MarkupCompile.cache
+C:\Users\DELL\OneDrive\Desktop\CHAT APP\ChatZy\obj\Debug\net9.0-windows\ChatZy_MarkupCompile.lref
