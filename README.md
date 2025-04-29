@@ -19,10 +19,3 @@ Before running the application:
 
 ThankYou.
 
-nginx
-Copy
-Edit
-ipconfig
-Look for the IPv4 Address under your network adapter.
-
-📌 The IP address in the client must exactly match your machine’s IPv4 address for the connection to work correctly.
